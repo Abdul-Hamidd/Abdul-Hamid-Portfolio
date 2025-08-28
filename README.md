@@ -30,8 +30,8 @@ Flask · FastAPI · API Integrations
 
 ##  Connect with Me  
 -  Email: **hamzahmuhammad750@gmail.com**  
--  LinkedIn: [Abdul Hamid](https://linkedin.com/in/abdul-hamid786)  
--  GitHub: [Your Profile](https://github.com/your-username)  
+-  LinkedIn: https://linkedin.com/in/abdul-hamid786  
+-  GitHub:  https://github.com/Abdul-Hamidd
 
 ---
 
