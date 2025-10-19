@@ -2,7 +2,7 @@
  AI/ML Engineer | Computer Vision | Agentic AI Systems | LLMs | Chatbots | APIs  
 
  Passionate about building **intelligent systems** that combine Computer Vision,GenAI, LLMs, and Agentic AI.  
- Currently focusing on **Computer Vision models** and **Agent creation** using latest Agentic AI techniques.  
+ Currently focusing on **Computer Vision models**,**Chatbot** and **Agent creation** using latest Agentic AI techniques.  
  Actively seeking **AI/ML Engineer roles** to apply and grow my expertise.  
 
 ---
