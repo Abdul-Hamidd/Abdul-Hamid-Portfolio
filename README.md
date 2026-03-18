@@ -1,8 +1,8 @@
  #  Hi, I'm Abdul Hamid  
- AI/ML Engineer | Computer Vision | Agentic AI Systems | LLMs | Chatbots | APIs  
+ AI/ML Engineer | Computer Vision | Agentic AI Systems | LLMs | Chatbots | APIs  |  Automation  |  Cloud  
 
  Passionate about building **intelligent systems** that combine Computer Vision,GenAI, LLMs, and Agentic AI.  
- Currently focusing on **Computer Vision models**,**Chatbot** and **Agent creation** using latest Agentic AI techniques.  
+ Currently focusing on **Computer Vision models**,**Chatbot**, **Automation**, and **Agent creation** using latest Agentic AI techniques.  
  Actively seeking **AI/ML Engineer roles** to apply and grow my expertise.  
 
 ---
@@ -20,10 +20,10 @@
 Python · Scikit-Learn · TensorFlow · Keras · OpenCV  
 
 **AI/ML & LLMs:**  
-NLP · LLMs · LangChain · RAG · Agentic AI Systems · CrewAI · Phi Data · MCP Protocol Simulation · Vector Databases (FAISS)  
+NLP · LLMs · LangChain · RAG · Agentic AI Systems · CrewAI · LangGraph · MCP Protocol Simulation · Vector Databases (FAISS), A2A protocol  
 
 **Data & Utilities:**  
-NLTK · Faker · Web Scraping  
+NLTK · Spacy . Faker · Web Scraping  
 
 **Backend & APIs:**  
 Flask · FastAPI · API Integrations  
